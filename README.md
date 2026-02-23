@@ -1,44 +1,57 @@
-# Alex Chen
+# Alex Chen (陈伟)
+
+<p align="center">
+  <a href="https://github.com/achen1994lex-del">
+    <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" alt="GitHub">
+  </a>
+  <a href="mailto:achen1994lex@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail" alt="Email">
+  </a>
+</p>
+
 ---
 
-User: [Alex Chen](https://github.com/achen1994lex-d)
+## 👨‍💻 About Me
 
-# Name (Lindarname): Kang Wei
+- **Full-stack Developer** | Python & JavaScript | Freelancer
+- **Location:** Los Angeles, California
+- **Email:** achen1994lex@gmail.com
+- **Available for hire!** ✅
 
-# Bio 
-full-stack developer | Python & JavaScript | Freelancer | Building AH-powered tools
+---
 
-# Location
-LOS Angeles, California
+## 💼 Professional Experience
 
-# Email
-achen1994lex@gmail.com
+- **8+ years** of coding experience
+- **3 years** full-time company experience  
+- **5 years** freelancer
+- **UCLA** Computer Science Bachelor
 
-## Knowledge
+**Previous Companies:**
+- DataFlow Systems Inc. (2019-2022)
+- TechVentures LLC (2017-2019)
+- WebAgency Pro (2016-2017)
 
-## Professional Experience
+---
 
-- 8 years of coding experience
-- 3 Years full-time company experience
-- 5 Years freelancer
-- UCIA Computer Science Bachelor
-- DataFlow Systems Inc., TechVentures LLC, WebAgency Pro 
+## 🛠 Core Skills
 
-## Core Skills
+| Category | Skills |
+|----------|--------|
+| Languages | Python (Expert), Node.js, JavaScript |
+| Backend | Flask, Django, Express |
+| Database | PostgreSQL, MongoDB, Redis |
+| DevOps | Docker, AWS, Linux |
 
-- Python (Expert)
-- Nodejs & JavaScript
-- Flask & Django
-- PostgreSQL & MongoDB & Redis
-- Docker & AWS & Linux
+---
 
-# Projects
+## 📁 Projects
 
-- [api-services](https://github.com/achen1994lex-del/api-services) - PON and JavaScript APis and automation scripts
+- [api-services](https://github.com/achen1994lex-del/api-services) - Python & JavaScript APIs and automation scripts
 
-# Links
+---
 
-- [GitHu[�
-itthtp://github.com/achen1994lex-del)
-- [LinkedIn](https://linkedin.com/achen1994ex)
+## 🌐 Connect
+
+- [GitHub](https://github.com/achen1994lex-del)
 - [Email](mailto:achen1994lex@gmail.com)
