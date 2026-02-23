@@ -1,16 +1,44 @@
-## Hi there 👋
+# Alex Chen
+---
 
-<!--
-**achen1994lex-del/achen1994lex-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+User: [Alex Chen](https://github.com/achen1994lex-d)
 
-Here are some ideas to get you started:
+# Name (Lindarname): Kang Wei
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Bio 
+full-stack developer | Python & JavaScript | Freelancer | Building AH-powered tools
+
+# Location
+LOS Angeles, California
+
+# Email
+achen1994lex@gmail.com
+
+## Knowledge
+
+## Professional Experience
+
+- 8 years of coding experience
+- 3 Years full-time company experience
+- 5 Years freelancer
+- UCIA Computer Science Bachelor
+- DataFlow Systems Inc., TechVentures LLC, WebAgency Pro 
+
+## Core Skills
+
+- Python (Expert)
+- Nodejs & JavaScript
+- Flask & Django
+- PostgreSQL & MongoDB & Redis
+- Docker & AWS & Linux
+
+# Projects
+
+- [api-services](https://github.com/achen1994lex-del/api-services) - PON and JavaScript APis and automation scripts
+
+# Links
+
+- [GitHu[�
+itthtp://github.com/achen1994lex-del)
+- [LinkedIn](https://linkedin.com/achen1994ex)
+- [Email](mailto:achen1994lex@gmail.com)
